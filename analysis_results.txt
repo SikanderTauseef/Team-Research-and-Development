@@ -1,0 +1,5 @@
+Analysis Results:
+
+Mean Obesity Rate: 18.7077844311377
+Standard Deviation of Obesity Rate: 9.6335570255902
+Total Number of Countries Analyzed: 167
