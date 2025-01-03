@@ -1,0 +1,66 @@
+ANOVA table for Animal.Products
+
+                         Df Sum Sq Mean Sq F value   Pr(>F)    
+sample_data[, variable]   1   2685  2685.2   34.83 1.99e-08 ***
+Residuals               165  12721    77.1                     
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+ANOVA table for Animal.fats
+
+                         Df Sum Sq Mean Sq F value   Pr(>F)    
+sample_data[, variable]   1   2406  2405.7   30.53 1.26e-07 ***
+Residuals               165  13000    78.8                     
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+ANOVA table for Cereals.Excluding.Beer
+
+                         Df Sum Sq Mean Sq F value   Pr(>F)    
+sample_data[, variable]   1   3671    3671   51.62 2.21e-11 ***
+Residuals               165  11735      71                     
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+ANOVA table for Eggs
+
+                         Df Sum Sq Mean Sq F value   Pr(>F)    
+sample_data[, variable]   1   1246  1245.9   14.52 0.000196 ***
+Residuals               165  14160    85.8                     
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+ANOVA table for Fish.Seafood
+
+                         Df Sum Sq Mean Sq F value Pr(>F)  
+sample_data[, variable]   1    409   409.1   4.501 0.0354 *
+Residuals               165  14997    90.9                 
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+ANOVA table for Fruits.Excluding.Wine
+
+                         Df Sum Sq Mean Sq F value Pr(>F)
+sample_data[, variable]   1    103  102.59   1.106  0.294
+Residuals               165  15303   92.75               
+ANOVA table for Milk.Excluding.Butter
+
+                         Df Sum Sq Mean Sq F value   Pr(>F)    
+sample_data[, variable]   1   1446  1446.4    17.1 5.64e-05 ***
+Residuals               165  13959    84.6                     
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+ANOVA table for Vegetal.Products
+
+                         Df Sum Sq Mean Sq F value   Pr(>F)    
+sample_data[, variable]   1   2685  2684.8   34.82 1.99e-08 ***
+Residuals               165  12721    77.1                     
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+ANOVA table for Vegetable.Oils
+
+                         Df Sum Sq Mean Sq F value Pr(>F)  
+sample_data[, variable]   1    336   336.5   3.684 0.0566 .
+Residuals               165  15069    91.3                 
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+ANOVA table for Vegetables
+
+                         Df Sum Sq Mean Sq F value Pr(>F)
+sample_data[, variable]   1    102  102.03     1.1  0.296
+Residuals               165  15304   92.75               
